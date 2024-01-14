@@ -54,7 +54,7 @@ The Phonebook application serves as an efficient solution for contact management
   - `getNthMessage()` - Retrieves the nth message in the linked list.
   - `size()` - Returns the size of the linked list.
 
-#### Node Struct (inside Messages)
+#### Node **Struct** (inside Messages)
 
 - **Attributes:**
   - `data: Message` - Holds the data of a message.
