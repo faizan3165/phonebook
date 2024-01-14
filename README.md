@@ -128,9 +128,3 @@ The Phonebook application serves as an efficient solution for contact management
 ## Conclusion
 
 In conclusion, the Phonebook application encapsulates the principles of object-oriented programming, utilizing a binary search tree for contact management and a linked list for message tracking. The detailed UML diagrams and workflow discussions provide a comprehensive understanding of the application's architecture and functionality.
-
-
-## Group Members
-1. **Mudassir Farooq F2022266561**
-2. **Faizan Mehmood F2022266571**
-3. **Faizan Mehmood F2022266572**
