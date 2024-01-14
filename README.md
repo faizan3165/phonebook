@@ -1,5 +1,3 @@
-# Term Project Report
-
 ## Abstract
 
 The Phonebook application is a comprehensive tool implemented in C++ for managing contacts and facilitating communication. This report provides an in-depth exploration of the project's design, implementation, and functionalities. The program leverages object-oriented programming principles, focusing on modularity, encapsulation, and abstraction. The report covers the project's objectives, the role of each module, and the intricacies of implementation.
